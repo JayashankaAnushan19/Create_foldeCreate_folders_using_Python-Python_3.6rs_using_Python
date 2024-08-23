@@ -20,3 +20,6 @@ for x in range(file_count):
 
 print(fileName_list)
 
+'''
+This code written by Jayashanka Anushan (jayasankaanushan199@gmail.com)
+'''
