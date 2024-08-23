@@ -1,10 +1,12 @@
+
 import os
 from faker import Faker
 
 
 fileName_list = []
 
-
+### Files to be create can be change using this count
+### ------------------------------------------------ ###
 file_count = 3
 fake = Faker()
 random_words = fake.words(file_count)
