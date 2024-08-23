@@ -21,5 +21,7 @@ for x in range(file_count):
 print(fileName_list)
 
 '''
-This code written by Jayashanka Anushan (jayasankaanushan199@gmail.com)
+This code written by Jayashanka Anushan 
+	Email  : jayasankaanushan199@gmail.com
+	LinkedIn : https://www.linkedin.com/in/jayashanka-anushan-011041158/
 '''
