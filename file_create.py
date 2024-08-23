@@ -2,7 +2,7 @@
 import os
 from faker import Faker
 
-
+### Below list used to get all the names that created by the program
 fileName_list = []
 
 ### Files to be create can be change using this count
